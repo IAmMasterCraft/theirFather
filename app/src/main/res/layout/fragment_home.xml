@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitXY"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:src="@android:drawable/ic_menu_info_details" />
+
+    <Button
+        android:id="@+id/latestText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:drawableTop="@android:drawable/ic_menu_recent_history"
+        android:text="@string/latestText"
+        android:textSize="20sp" />
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="80dp"
+        android:background="?android:attr/listDivider" />
+
+    <Button
+        android:id="@+id/browseText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:drawableTop="@android:drawable/ic_media_play"
+        android:text="@string/browseText"
+        android:layout_marginTop="160dp"
+        android:textSize="20sp" />
+
+</FrameLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212439513829",
+    "firebase_url": "https://theirfather-cdab8.firebaseio.com",
+    "project_id": "theirfather-cdab8",
+    "storage_bucket": "theirfather-cdab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212439513829:android:8008d3b86b856e2929720c",
+        "android_client_info": {
+          "package_name": "com.example.theirfather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212439513829-s5k1ntbnomovsnktl75s5fhqbieqi2po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpidnClbpy1GPYoVehSUQHbBmvfGcXN-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212439513829-s5k1ntbnomovsnktl75s5fhqbieqi2po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

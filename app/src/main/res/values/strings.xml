@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Their Father</string>
+    <string name="browseText">Browse Bookmarks</string>
+    <string name="latestText">Browse Audio Catalog</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnDl">DOWNLOAD</string>
+    <string name="btnPlay">PLAY</string>
+    <string name="audioName">AUDIO GIVEN NAME</string>
+    <string name="hint">Search...</string>
+</resources>
